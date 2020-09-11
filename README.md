@@ -5,6 +5,39 @@
 <h5 align="center">A full stack developer and Data Science Enthusiast</h5>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-854400%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 888 Contributions in the Year 2020
+ > 
+> 📦 281.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 40 Public Repositories
+ > 
+> 🔑 25 Private Repositories 
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               30 repos            ██████████████░░░░░░░░░░░   57.69% 
+Dart                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+Python                   1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/absolute-nil/absolute-nil/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
