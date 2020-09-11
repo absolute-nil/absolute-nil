@@ -1,47 +1,15 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=absolute-nil.absolute-nil)
 
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h5 align="center">A full stack developer and Data Science Enthusiast</h5>
+<h1 style="text-align: center">Hi 👋, I'm Nikhil</h1>
+<h5 style="text-align: center">A full stack developer and Data Science Enthusiast</h5>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-854400%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 888 Contributions in the Year 2020
- > 
-> 📦 281.3 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 40 Public Repositories
- > 
-> 🔑 25 Private Repositories 
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               30 repos            ██████████████░░░░░░░░░░░   57.69% 
-Dart                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Python                   1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/absolute-nil/absolute-nil/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 
 <h3>Languages</h3>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -52,6 +20,7 @@ Python                   1 repos             ░░░░░░░░░░░�
 ![Rebol](https://img.shields.io/badge/-Rebol-black?style=flat-square&logo=R)
 
 <h3>Backend</h3>
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Php](https://img.shields.io/badge/-php-purple?style=flat-square&logo=Php)
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=Firebase)
@@ -60,6 +29,7 @@ Python                   1 repos             ░░░░░░░░░░░�
 ![Keras](https://img.shields.io/badge/-Keras-brown?style=flat-square&logo=keras)
 
 <h3>Frontend</h3>
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
@@ -68,13 +38,15 @@ Python                   1 repos             ░░░░░░░░░░░�
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 <h3>Database</h3>
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 <h3>Tools</h3>
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter)
-![Colab](https://img.shields.io/badge/-Colab-white?style=flat-square&logo=CO)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
@@ -84,6 +56,7 @@ Python                   1 repos             ░░░░░░░░░░░�
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <h3>OS</h3>
+
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-005571?style=flat-square&logo=windows)
 
