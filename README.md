@@ -5,6 +5,23 @@
 <h5 style="text-align: center">A full stack developer and Data Science Enthusiast</h5>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-854400%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 896 Contributions in the Year 2020
+ > 
+> 📦 281.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 32 Public Repositories
+ > 
+> 🔑 25 Private Repositories 
+
+
 <!--END_SECTION:waka-->
 
 
