@@ -15,19 +15,19 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=absolute-nil.absolute-nil)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8385%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-854400%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 861 Contributions in the Year 2020
+> 🏆 888 Contributions in the Year 2020
  > 
-> 📦 281.1 kB Used in Github's Storage 
+> 📦 281.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories
+> 📜 40 Public Repositories
  > 
 > 🔑 25 Private Repositories 
 
