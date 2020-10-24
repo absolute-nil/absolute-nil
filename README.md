@@ -1,4 +1,3 @@
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=absolute-nil.absolute-nil)
 
 <h1 style="text-align: center">Hi 👋, I'm Nikhil</h1>
@@ -6,7 +5,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 <h3>Languages</h3>
 
@@ -22,6 +20,7 @@
 <h3>Backend</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Spring](https://img.shields.io/badge/-spring-white?style=flat-square&logo=spring)
 ![Php](https://img.shields.io/badge/-php-purple?style=flat-square&logo=Php)
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=Firebase)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
@@ -64,6 +63,3 @@
 
 <p><a href="https://www.linkedin.com/in/nikhilsksharma/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-
-
-
