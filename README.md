@@ -39,6 +39,7 @@
 ![Php](https://img.shields.io/badge/-php-purple?style=flat-square&logo=Php)
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=Firebase)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-brown?style=flat-square&logo=keras)
 
@@ -73,6 +74,12 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-005571?style=flat-square&logo=windows)
+
+<h3>Cloud</h3>
+
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=flat-square&logo=google-cloud)
 
 <h3>Where to find me</h3>
 
