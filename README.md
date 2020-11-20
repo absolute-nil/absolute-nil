@@ -4,19 +4,19 @@
 <h5 style="text-align: center">A full stack developer and Data Science Enthusiast</h5>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-938918%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,313 Contributions in the Year 2020
+> 🏆 1,278 Contributions in the Year 2020
  > 
 > 📦 282.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories
+> 📜 45 Public Repositories
  > 
-> 🔑 30 Private Repositories 
+> 🔑 20 Private Repositories 
 
 
 <!--END_SECTION:waka-->
