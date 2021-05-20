@@ -4,11 +4,11 @@
 <h5 style="text-align: center">A full stack developer and Data Science Enthusiast</h5>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422818%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423223%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 584 Contributions in the Year 2021
+> 🏆 595 Contributions in the Year 2021
  > 
 > 📦 330.4 kB Used in Github's Storage 
  > 
