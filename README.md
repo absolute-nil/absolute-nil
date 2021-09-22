@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-468865%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 1,799 Contributions in the Year 2021
  > 
-> 📦 338.8 kB Used in Github's Storage 
+> 📦 338.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -19,7 +19,7 @@
 > 🔑 29 Private Repositories  
  > 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 <h3>Languages</h3>
