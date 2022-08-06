@@ -4,11 +4,11 @@
 <h5 style="text-align: center">A full stack developer and Data Science Enthusiast</h5>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-477%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-448%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 352 Contributions in the Year 2022
+> 🏆 356 Contributions in the Year 2022
  > 
 > 📦 505.7 kB Used in GitHub's Storage 
  > 
@@ -19,7 +19,7 @@
 > 🔑 35 Private Repositories  
  > 
 
- Last Updated on 05/08/2022 20:17:45 UTC
+ Last Updated on 06/08/2022 20:12:05 UTC
 <!--END_SECTION:waka-->
 
 <h3>Languages</h3>
